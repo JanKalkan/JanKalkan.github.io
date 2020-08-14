@@ -1,0 +1,15 @@
+- layout: left
+  name: TU Berlin - Technical University of Berlin
+  dates: 2015 - 2018
+  qualification: MSc Computer Science
+  description: | # this will include new lines to allow paragraphs
+    During my time at the University TU Berlin I strengthened my engineering knowledge by exploring various topics in the area of distributed systems engineering, scalable data management, data science, big data systems and blockchain technologies. 
+
+    In my [master's thesis](../assets/thesis.pdf) I dealed with the topic of "Evaluation of Meta Path Based Graph Analysis in the Context of an Enterprise Recommender System" in corporation with [DIMA](https://www.dima.tu-berlin.de/) - the Database Systems and Information Management Group at TU Berlin - and the Intelligent Enterprise CoE at [SAP SE](https://www.sap.com/index.html).
+
+- layout: left
+  name: FHDW - University of Applied Science of Economics
+  dates: 2010 - 2013
+  qualification: BSc Business Information Technology
+  description: | # this will include new lines to allow paragraphs
+    The dual bachelor program at FHDW gave me the possibility to deepen my technical and as well my practical knowledge in an professional academic environment. In addition I could strengthen and intensify my knowledge through my time as a working student at [Gahrens + Battermann GmbH](https://www.gb-mediensysteme.de/). Furthermore, I could improve my business knowledge, although the main focus of the studies were software engineering.

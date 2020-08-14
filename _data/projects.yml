@@ -1,0 +1,17 @@
+- layout: top-middle
+  name: lazycluster
+  link: github.com/ml-tooling/lazycluster
+  github: ml-tooling/lazycluster
+  quote: >
+    Distributed machine learning made simple.
+  description: | # this will include new lines to allow paragraphs
+    lazycluster is an open source Python library intended to liberate data scientists and machine learning engineers by abstracting away cluster management and configuration so that they are able to focus on their actual tasks. Especially, the easy and convenient cluster setup with Python for various distributed machine learning frameworks is emphasized. This project is part of the ml-tooling open source organization which aims to develop tools that help developers being more productive in delivering machine learning solutions for their products and datasets.
+
+- layout: top-middle
+  name: KINTO Join
+  link: www.kinto-mobility.com
+  quote: >
+    Everyone should have the freedom to move. With cities more congested and lives more connected, we need a new way to travel from A to B. One solution that’s clever, simple to use and kind to the environment whenever you need to move, wherever you are.
+  description: | # this will include new lines to allow paragraphs
+    Kinto Join is a corporate carpooling platform and part of Toyota's new mobility service brand KINTO kicked of in 2020.
+    I had the possibility to join this exciting project as a freelancer during the intial project phase. During the time I mainly did fullstack web development activities for the Kinto Join platform using a modern Typescript based tech stack including NestJS, MongoDB, React and GraphQL among others.

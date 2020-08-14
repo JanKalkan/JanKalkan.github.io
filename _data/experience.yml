@@ -1,0 +1,31 @@
+- layout: top-middle
+  company: Self employed
+  job_title: Freelance Software Engineer
+  dates: Apr 2020 - present
+
+- layout: top-middle
+  company: SAP SE
+  link: www.sap.com
+  jobs:
+    - title: Senior Software Engineer @ Intelligent Enterprise CoE
+      dates: Apr 2019 - Mar 2020
+    - title: Development Architect @ Innovative Bussines Solutions
+      dates: Jan 2017 - Mar 2019
+    - title: Development Expert @ Innovative Bussines Solutions
+      dates: Sep 2012 - Dec 2016
+
+  description: | # this will include new lines to allow paragraphs
+    The focus of my work at the Intelligent Enterprise CoE were complex technical solutions to make distributed machine learning processes more feasible and easily accessible to data scientists.
+    During my time at Innovative Business Solutions I participated in various customer projetcs, where I gathered customer requirements and transferred those into high quality custom software solutions. The key projects were mainly located in the retail industry, whereupon I also got in contact with other industry branches.
+
+- layout: top-middle
+  company: Zendri GmbH
+  link: www.zendri.com
+  job_title: Web Developer (Part Time)
+  dates: Aug 2015 - Sep 2016
+
+- layout: top-middle
+  company: Gahrens + Battermann GmbH
+  link: www.gb-mediensysteme.de
+  job_title: Software Developer as Working Student
+  dates: Jan 2011 - Aug 2012

@@ -1,0 +1,64 @@
+# Site
+repository: github.com/JanKalkan
+favicon: images/favicon.ico
+
+# Personal info
+name: Jan Kalkan
+title: "<!-- Software Engineer -->"
+email: jan.kalkan@mailbox.org
+website: https://jankalkan.github.io/
+
+darkmode: true
+
+# Social links
+#twitter_username: facespics
+github_username: JanKalkan
+# dribbble_username: #
+# facebook_username: #
+# flickr_username: #
+#instagram_username: #
+linkedin_username: jan-kalkan-b5390284
+# pinterest_username: #
+#youtube_username: #
+# googleplus_username: #
+
+# About Section
+# about_title: About Me
+about_profile_image: images/profile.jpg
+about_content: | # this will include new lines to allow paragraphs
+  Hi, my name is Jan and I'm a software engineer and tech enthusiast currently working as a freelancer. I have a diverse tech skill set based on multiple years of experience in custom development projects inside and outside of the SAP ecosystem. Additionally, I can demonstrate a solid foundation in more research oriented topics like data science or distributed systems for example. I am used to collaborative, remote first work and I am passionate about a self-responsible digital nomade lifestyle. I strongly believe in the power of teams consisting of highly skilled and passionate indivduals and love to work in such environments.
+
+  Some technologies I touched in my life: 
+    
+  <mark>NestJS</mark> <mark>React</mark> <mark>MongoDB</mark> <mark>Apache Flink</mark> <mark>Apache Spark</mark> <mark>Apache Hadoop</mark> <mark>Neo4j</mark> <mark>Pandas</mark> <mark>Laravel</mark> <mark>SAPUI5</mark> <mark>HANA</mark>  <mark>SQL/NoSQL</mark> <mark>Java</mark>  <mark>ABAP</mark> <mark>GraphQL</mark> <mark>Rest</mark> <mark>Python</mark> <mark>Javascript</mark> <mark>Typescript</mark> <mark>HTML</mark> <mark>CSS</mark> <mark>PHP</mark> <mark>Other stuff I forgot to list 🤓</mark>
+
+# Projects Section
+# projects_title: Projects
+
+# Experience Section
+# experience_title: Experience
+
+# Education Section
+# educaton_title: Education
+
+# More Section
+# more_title: A Little More About Me
+more_content: | # this will include new lines to allow paragraphs
+  Alongside my interest in software engineering some of my other interests and hobbies are:
+   - Yoga
+   - Meditation
+   - Kickboxing
+   - Diving
+
+# Footer
+footer_show_references: true
+
+# Build settings
+remote_theme: sproogen/resume-theme
+
+sass:
+  sass_dir: _sass
+  style: compressed
+
+plugins:
+  - jekyll-seo-tag
